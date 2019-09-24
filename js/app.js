@@ -17,5 +17,5 @@ function calc(){
         calculate = a / b;
     }
 
-    document.querySelector("result").innerHTML = calculate
+    document.querySelector("#result").innerHTML = calculate
 }
